@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Shubham Dutta 👋
 
-<!--
-**shubham4039/shubham4039** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | React.js | Node.js | PostgreSQL
 
-Here are some ideas to get you started:
+I'm a software developer focused on building practical web applications and strengthening my problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Building full-stack applications with React.js, Node.js and Express.js
+- 🚀 Working on **StoreX**, a cloud storage application
+- 🧩 Practicing Data Structures and Algorithms using C++
+- 🌱 Learning backend development, REST APIs, authentication and PostgreSQL
+- 🎯 Preparing for Software Development Engineer (SDE) opportunities
+
+## Tech Stack
+
+**Frontend:** HTML, CSS, JavaScript, TypeScript, React.js, Tailwind CSS
+
+**Backend:** Node.js, Express.js, REST APIs
+
+**Database:** PostgreSQL
+
+**Programming Languages:** C++, Python
+
+**Tools:** Git, GitHub
+
+## Featured Projects
+
+### StoreX
+A full-stack cloud storage application inspired by Google Drive.
+- Built using the PERN stack
+- Explore the repository: [StoreX](https://github.com/shubham4039/StoreX)
+
+### DSA with C++
+A collection of Data Structures and Algorithms solutions.
+- Focused on problem-solving and algorithmic fundamentals
+- Explore the repository: [DSA-with-cpp](https://github.com/shubham4039/DSA-with-cpp)
+
+## Connect With Me
+- GitHub: [@shubham4039](https://github.com/shubham4039)
+- LinkedIn: [Shubham Dutta](https://www.linkedin.com/in/shubhamdutta10/)
